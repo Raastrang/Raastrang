@@ -1,0 +1,1319 @@
+@media screen and (min-width: 1050px) {
+    .logINSeT:hover .innerLogINMenu {
+        opacity: 1;
+        margin-top: 0;
+        height: auto;
+    }
+    .logINSeT:hover .logINBtn {
+        background-color: #2cbe53;
+        color: #fff;
+    }
+    .logINSeT:hover .logINBtn .loginIcon {
+        background-position: bottom right;
+    }
+    .logINSeT.afterLogM:hover .logINBtn .loginIcon {
+        background-position: bottom left;
+    }
+    .popupInner {
+        position: relative;
+        top: 50%;
+        transform: translateY(-50%);
+        -webkit-transform: translateY(-50%);
+        -moz-transform: translateY(-50%);
+        margin: 0 auto;
+    }
+}
+@media screen and (max-width: 1920px) and (min-width: 1610px) {
+    .freeVidSet li {
+        margin: 5px;
+        width: calc(16.6% - 10px);
+        height: auto;
+        padding: 10px;
+        background-color: #fff;
+        border: solid 1px #ddd;
+    }
+    .dashCourse li {
+        width: calc((20% - 20px) + 6.6px);
+    }
+    .docDashD li {
+        width: calc(16.6% - 10px);
+    }
+}
+@media screen and (max-width: 1600px) and (min-width: 1450px) {
+    .freeVidSet li {
+        margin: 5px;
+        width: calc(20% - 10px);
+        height: auto;
+        padding: 10px;
+        background-color: #fff;
+        border: solid 1px #ddd;
+    }
+    .dashCourse li {
+        width: calc((25% - 20px) + 6.6px);
+    }
+    .docDashD li {
+        width: calc(25% - 10px);
+    }
+}
+@media screen and (max-width: 1440px) and (min-width: 1370px) {
+    .freeVidSet li {
+        margin: 5px;
+        width: calc(25% - 10px);
+        height: auto;
+        padding: 10px;
+        background-color: #fff;
+        border: solid 1px #ddd;
+    }
+}
+@media screen and (max-width: 1340px) and (min-width: 1050px) {
+    .yearField {
+        margin: 90px 0 120px;
+    }
+    .courseLest li {
+        width: calc(33.3% - 20px);
+    }
+}
+
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) {
+    .freeVidSet li {
+        width: calc(33.3% - 10px);
+        margin: 8px 5px;
+    }
+    .isoLogo {
+        width: 55px;
+        height: auto;
+    } 
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+    .isoLogo {
+        width: 55px;
+        height: auto;
+    }
+    .moemail, .freevideo, .socialtop {
+        width: 33% !important;
+    }
+    .moemail a {
+        font-size: 14px;
+    }
+    .moemail a:not(:last-child) {
+        padding-right: 10px;
+    }
+    .freevideo a {
+        padding: 8px 10px;
+        font-size: 14px;
+    }
+    .socimediaSet a {
+        width: 35px;
+    }
+}
+@media (max-width: 991px){
+    .linkMenuRi li {
+        float: none;
+        text-align: center;
+        display: block !important;
+        padding: 0 !important;
+    }
+}
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    .isoLogo {
+        width: 55px;
+        height: auto;
+    }
+    .moemail, .freevideo, .socialtop {
+        width: 33% !important;
+    }
+    .moemail a {
+        font-size: 14px;
+    }
+    .moemail a:not(:last-child) {
+        padding-right: 10px;
+    }
+    .freevideo a {
+        padding: 8px 10px;
+        font-size: 14px;
+    }
+    .socimediaSet a {
+        width: 35px;
+        text-align: left;
+    }
+}
+
+@media screen and (max-width: 1024px) and (min-width: 300px) {
+    .courseLest li {
+        width: calc(33.3% - 20px);
+    }
+    .footerSet {
+        background: url(../images/device-footer-bg.svg) no-repeat;
+        padding: 50px 0;
+        background-size: cover;
+        background-position: center;
+    }
+    .footerBtoomInfo,
+    .footerToMailset {
+        padding: 0;
+    }
+    .rightTestCir {
+        display: none;
+        float: none;
+    }
+    .leftTiDesTest {
+        width: 100%;
+        float: none;
+    }
+    .setOfTestiMOs {
+        width: 100%;
+        margin: 40px 0 0 0;
+    }
+    .nextPbtns {
+        bottom: -75px;
+    }
+    .testimonialD {
+        padding-bottom: 180px;
+    }
+    .eachtest .contesti {
+        height: auto;
+        padding-bottom: 35px;
+    }
+    .rightConwhy {
+        width: 100%;
+        float: none;
+        padding: 0;
+        height: auto;
+    }
+    .lefticonBox {
+        width: 100%;
+        float: none;
+        padding: 0;
+        padding-top: 20px;
+    }
+    .yconSet {
+        position: relative;
+        top: 0;
+        transform: inherit;
+        -webkit-transform: inherit;
+        -moz-transform: inherit;
+    }
+    .whyDot {
+        display: none;
+    }
+    .leftSetIcon,
+    .leftSetIcon2 {
+        width: 50%;
+        padding: 0 10px 0 0;
+        margin: 0;
+    }
+    .leftSetIcon2 {
+        padding: 0 0 0 10px;
+    }
+    .whyBo {
+        width: calc(50% - 10px);
+        margin: 10px 10px 10px 0;
+        float: left;
+    }
+    .whyBo:last-child {
+        margin: 10px 0 10px 10px;
+    }
+    .whyUsSet .mobBtn {
+        margin-top: 40px;
+        display: inline-block;
+    }
+    .consetY .btn {
+        display: none;
+    }
+    .ccEle {
+        display: none;
+    }
+    .yearField {
+        margin: 90px 0 120px;
+    }
+    .consetPage li {
+        width: calc(33.3% - 20px);
+    }
+    .leftDashMenu {
+        width: 55px;
+    }
+    .leftDashMenu.active {
+        width: 220px;
+    }
+    .rigthDetailsDash {
+        width: calc(100% - 55px);
+        height: 100vh;
+        position: relative;
+        margin-right: 0;
+    }
+    .rigthDetailsDash.active {
+        width: 100%;
+        position: relative;
+        margin-right: -220px;
+    }
+    .dashLogo {
+        height: 55px;
+        padding: 14px 0;
+    }
+    .dashlistmenu li a .leftIconSet,
+    .leftMenuIconDash {
+        margin: 0 15px;
+    }
+    .dashlistmenu li a .leftIconSet {
+        width: 20px;
+    }
+    .dashlistmenu li a p {
+        line-height: 20px;
+    }
+    .dashHeaderSet {
+        height: 55px;
+        padding: 8px 3%;
+    }
+    .leftMenuIconDash.active {
+        margin-left: 15px;
+    }
+    .setOfSoci li {
+        width: calc(50% - 10px);
+        margin: 5px;
+    }
+    .researchCallS {
+        width: 100%;
+        float: none;
+        margin: 0 0 40px 0;
+    }
+    .researchCallS:last-child {
+        margin-bottom: 0;
+    }
+    .dashBoardBody {
+        width: 100%;
+        height: calc(100vh - 55px);
+    }
+    .stockSpl {
+        padding-top: 40px;
+    }
+    .sttSpl li {
+        width: calc(33.7% - 10px);
+        margin-right: 10px;
+    }
+    .sttSpl li:last-child {
+        margin-right: 0;
+    }
+    .sttSpl li .titOfM {
+        font-size: 14px;
+    }
+    .freeVidSet li {
+        width: calc(33.3% - 10px);
+        margin: 8px 5px;
+    }
+    .dashCourse li {
+        width: calc(33.3% - 10px);
+        margin: 10px 5px;
+    }
+    .dashCourse li .courseTiD {
+        font-size: 15px;
+    }
+    .courseRebtn a {
+        font-size: 13px;
+    }
+    .dsCouBtn.notBuy p {
+        font-size: 15px;
+    }
+    .popupInner {
+        width: 90%;
+        max-width: 500px;
+        margin: 50px auto;
+    }
+}
+@media screen and (max-width: 980px) and (min-width: 300px) {
+    .linkMenuRi li {
+        padding: 0 15px;
+    }
+    .leftyearimg,
+    .rightyearimg {
+        display: none;
+    }
+    .leftNumYear {
+        float: none;
+        display: block;
+        margin: 0 auto;
+        width: 100%;
+    }
+    .leftCircleSet {
+        width: 210px;
+        margin: 30px auto 0;
+    }
+    .rigthCountSet {
+        width: 100%;
+        float: none;
+        padding: 20px 0 0 0;
+    }
+    .rigthCountSet li {
+        width: calc(33.3% - 20px);
+        margin: 10px 10px;
+    }
+    .leftNumYear h3 {
+        padding-top: 0;
+        text-align: center;
+    }
+    .courseSetailsSet {
+        width: 100%;
+        height: auto;
+    }
+    .rightConSet {
+        top: 0;
+        transform: inherit;
+        -webkit-transform: inherit;
+        padding: 50px;
+        width: 60%;
+    }
+    .leftImgSetCourse {
+        width: 40%;
+    }
+    .ratingSetCource p {
+        float: none;
+        display: block;
+    }
+    .rightConSet .smtitle {
+        font-size: 14px;
+        letter-spacing: 0.5px;
+    }
+    .rightConSet h3 {
+        font-size: 22px;
+    }
+    .fullSetOffDetails {
+        padding: 70px 0;
+    }
+    .rightShortCOurse {
+        width: 100%;
+        height: auto;
+        position: relative;
+        top: 0;
+        float: none;
+        overflow: hidden;
+    }
+    .leftCoursesDetSet {
+        width: 100%;
+        margin: 70px 0 0 0;
+        float: none;
+    }
+    .rightCourseAmt {
+        width: 50%;
+        float: left;
+    }
+    .payMentBtnSet,
+    .shareCourseSet {
+        width: calc(50% - 20px);
+        float: right;
+    }
+    .payMentBtnSet,
+    .rightCourseAmt,
+    .shareCourseSet {
+        border: 0;
+    }
+    .rightCourseAmt .courseVidImg {
+        height: 220px;
+    }
+    .docDashD li {
+        width: calc(33.3% - 10px);
+    }
+    .recsocial {
+        justify-content: space-evenly;
+    }
+    .recsocial li {
+        width: calc(33.3% - 15px);
+    }
+}
+@media screen and (max-width: 940px) and (min-width: 300px) {
+    .socimediaSet {
+        width: 190px;
+        display: block;
+        float: none;
+        margin: 0 auto;
+        padding: 0;
+    }
+    .footerMenuSet {
+        padding: 40px 0 30px;
+    }
+    .foContactInfo a:first-child {
+        border: none;
+    }
+    .foContactInfo {
+        margin-top: 30px;
+    }
+    .foCopyrights {
+        margin-top: 30px;
+    }
+    .testimonialD {
+        padding: 70px 0 140px;
+    }
+    .whyUsSet {
+        padding-top: 70px;
+    }
+    .setOfWhatwe li a {
+        padding: 25px;
+    }
+    .abtLeftImg {
+        width: 100%;
+        float: none;
+        padding: 0;
+    }
+    .rigthAbtCon {
+        width: 100%;
+        float: none;
+        padding: 30px 0 0 0;
+    }
+    .abtLeftImg picture img {
+        width: 100%;
+        height: 400px;
+        object-fit: cover;
+        object-position: center;
+    }
+    .banBg {
+        display: none;
+    }
+    .homeCourse {
+        margin-top: -100px;
+    }
+    .mobieMenuHand {
+        display: block;
+        width: 50px;
+        height: 45px;
+        background-color: #fff;
+        border-radius: 3px;
+    }
+    .mobieMenuHand .leftMenuIconDash {
+        margin: 0 auto;
+        position: relative;
+        top: 50%;
+        transform: translateY(-50%);
+        -webkit-ransform: translateY(-50%);
+        float: none;
+    }
+    .mobieMenuHand .leftMenuIconDash span {
+        background-color: #81c90d;
+    }
+    .mobieMenuHand .leftMenuIconDash.active {
+        left: 5px;
+    }
+    .linkMenuRi {
+        position: absolute;
+        width: 100%;
+        z-index: 99;
+        left: 0;
+        top: 75px;
+        text-align: center;
+        background-color: #fff;
+        box-shadow: 0 5px 25px 0 rgba(0, 0, 0, 0.1);
+        opacity: 0;
+        margin-top: 10px;
+        height: 0;
+    }
+    .linkMenuRi.active {
+        opacity: 1;
+        margin-top: 0;
+        height: auto;
+    }
+    .linkMenuRi li {
+        float: none;
+        text-align: center;
+        display: inline-block;
+        padding: 10px;
+    }
+    .linkMenuRi li a {
+        display: inline-block;
+    }
+    .yusSet li {
+        width: calc(50% - 20px);
+        margin: 10px;
+    }
+    .teamprof li {
+        width: calc(50% - 20px);
+        margin: 10px;
+    }
+    .consetPage li {
+        width: calc(50% - 20px);
+    }
+    .leftFAQ,
+    .rigtFormSCo {
+        width: 100%;
+        float: none;
+    }
+    .leftFAQ {
+        margin-top: 50px;
+    }
+    .proImgSet li {
+        width: calc(50% - 20px);
+    }
+    .courseLest li {
+        width: calc(50% - 10px);
+        margin: 10px 5px;
+    }
+    .loginSet {
+        max-width: 600px;
+        width: 100%;
+        margin: 0 auto;
+        height: auto;
+    }
+    .leftImgsign {
+        display: none;
+    }
+    .rightFormSet {
+        width: 100%;
+    }
+    .loginFullSet {
+        padding: 50px 0;
+    }
+    .logFOrmSee {
+        width: 100%;
+        padding: 50px;
+        position: relative;
+        top: 0;
+        transform: inherit;
+        -webkit-transform: inherit;
+        -moz-transform: inherit;
+    }
+    .sttSpl li .titOfM {
+        padding: 25px 15px 0;
+    }
+    .countCourse {
+        padding: 18px 15px;
+    }
+    .dashCourse li {
+        width: calc(50% - 10px);
+        margin: 10px 5px;
+    }
+    .innermenu {
+        position: relative;
+        width: 100%;
+        background-color: #fff;
+        padding: 0;
+        text-align: center;
+    }
+    .innermenu > li > a {
+        display: block;
+        text-align: center;
+    }
+    .innermenu > li {
+        padding-top: 0;
+        text-align: center;
+    }
+    .linkMenuRi li:hover .innermenu {
+        padding: 0 15px;
+    }
+    .innermenu > li {
+        padding: 0;
+        display: block;
+        text-align: left;
+    }
+}
+@media screen and (max-width: 768px) and (min-width: 300px) {
+    .leftSetIcon,
+    .leftSetIcon2 {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+    .CourseImgD {
+        height: 150px;
+    }
+}
+/* header top */
+@media screen and (max-width: 767px) and (min-width: 300px) {
+    .stock-video-titles-list {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin: 10px 0px;
+    }
+    .socimediaSet {
+        width: 100%;
+        display: block;
+        float: none;
+        margin: 10px auto;
+        padding: 0;
+    }
+    .isoLogo {
+        position: absolute;
+        right: 0;
+        top: 0;
+        z-index: 1000;
+        width: 85px;
+    }
+    .item .slider-caption {
+        position: absolute;
+        z-index: 9999;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        text-align: center;
+        max-width: 80%;
+        margin: 0 auto;
+    }
+    .item .slider-caption h2 {
+        font-size: 1rem;
+        font-weight: 600;
+        line-height: 1.5rem;
+        margin-bottom: 10px;
+    }
+
+    
+    
+    
+    
+    .inputMailBoxSet label {
+        width: calc(100% - 50px);
+    }
+    .inputMailBoxSet .btn {
+        width: 50px;
+    }
+    .inputMailBoxSet .btn .mailSub {
+        display: none;
+    }
+    .inputMailBoxSet .btn .mobileSendIcon {
+        display: block;
+    }
+    .rightFormSet {
+        width: 100%;
+        max-width: 100%;
+        float: none;
+    }
+    .loginSet,
+    .loginSet.registerSet {
+        height: auto;
+    }
+    .logFOrmSee {
+        padding: 40px 20px;
+    }
+    .logFOrmSee h3 {
+        font-size: 25px;
+    }
+    .foContactInfo,
+    .foCopyrights {
+        display: block;
+        text-align: center;
+        float: none;
+    }
+    .foContactInfo a {
+        float: none;
+        display: inline-block;
+    }
+    .footerToMailset h3 {
+        font-size: 25px;
+    }
+    .inputMailBoxSet .btn,
+    .inputMailBoxSet label i {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 15px;
+    }
+    .inputMailBoxSet label input {
+        line-height: 40px;
+        height: 40px;
+        width: calc(100% - 40px);
+    }
+    .inputMailBoxSet .btn i {
+        font-size: 15px;
+    }
+    .setOfTestiMOs {
+        padding: 25px;
+    }
+    .hometitleSet .smtitle {
+        font-size: 14px;
+    }
+    .hometitleSet h3 {
+        font-size: 25px;
+        padding-top: 15px;
+    }
+    .ourCoHomeT {
+        font-size: 25px;
+        display: block;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .hometitleSet .smBtTile {
+        font-size: 18px;
+        padding-top: 5px;
+    }
+    .leftNumYear h3,
+    .whatTiCe h3 {
+        font-size: 25px;
+    }
+    .setOfWhatwe li {
+        width: 100%;
+        margin: 15px 0 0 0;
+    }
+    .whatweDoSet {
+        padding: 70px 0;
+    }
+    .yearField {
+        width: 100%;
+        margin: 0;
+        padding: 70px 0;
+    }
+    .leftCircleSet {
+        width: 180px;
+        height: 180px;
+    }
+    .contSetSpl h2 {
+        font-size: 28px;
+    }
+    .contSetSpl p {
+        font-size: 12px;
+    }
+    .rigthCountSet li {
+        width: calc(33.3% - 10px);
+        margin: 10px 5px;
+    }
+    .rigthCountSet li h6 {
+        font-size: 20px;
+    }
+    .rigthCountSet li p {
+        font-size: 12px;
+    }
+    .abtLeftImg picture img {
+        width: 100%;
+        height: 300px;
+    }
+    .homeCourse {
+        margin: 0;
+        padding: 70px 0;
+    }
+    .menuRightSet {
+        width: 100%;
+    }
+    .mobieMenuHand {
+        float: left;
+    }
+    .headersetion {
+        padding: 12px 0;
+    }
+    .logo {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        margin: 13px auto;
+        z-index: 99;
+        width: 160px;
+    }
+    .linkMenuRi {
+        top: 68px;
+    }
+    .logINBtn .conSetName {
+        display: none;
+    }
+    .logINBtn .loginIcon {
+        display: block;
+    }
+    .logINBtn {
+        padding: 0 5px;
+        overflow: hidden;
+    }
+    .innerLogINMenu {
+        right: 0;
+    }
+    .afterLogM .innerLogINMenu {
+        width: 150px;
+    }
+    .abtPageS {
+        padding-top: 70px;
+    }
+    .abtYus {
+        padding: 70px 0;
+        margin-bottom: 0;
+    }
+    .innerpageBanner {
+        height: 250px;
+    }
+    .fullpageContact {
+        padding: 70px 0;
+    }
+    .conForFaq {
+        padding-top: 70px;
+    }
+    .profitSet {
+        padding: 70px 0;
+    }
+    .courseLest li {
+        width: 100%;
+        margin: 10px 0;
+        max-height: 100%;
+    }
+    .contenTFOCou P {
+        height: auto;
+        max-width: 100%;
+        min-height: 100%;
+    }
+    .igmSetCourse {
+        height: 250px;
+    }
+    .courseSetion {
+        padding: 50px 0;
+    }
+    .smtitle {
+        font-size: 14px;
+    }
+    .contentTitleSet h3 {
+        font-size: 22px;
+    }
+    .courseLest {
+        padding-top: 20px;
+    }
+    .leftImgSetCourse {
+        position: relative;
+        top: 0;
+        left: 0;
+        width: 100%;
+        float: none;
+        height: 350px;
+    }
+    .rightConSet {
+        width: 100%;
+        padding: 40px 0 0 0;
+    }
+    .fullSetOffDetails {
+        padding: 70px 0;
+    }
+    .payMentBtnSet,
+    .rightCourseAmt,
+    .shareCourseSet {
+        width: 100%;
+        padding: 20px;
+        float: none;
+        border-bottom: solid 1px #ddd;
+    }
+    .topMenuSetOfCourse {
+        top: 69px;
+    }
+    .wtsInclude ol li,
+    .wtsInclude ul li {
+        width: 100%;
+        float: none;
+    }
+    .videoSetOfLesson li p {
+        width: calc(100% - 30px);
+    }
+    .videoSetOfLesson li span {
+        width: 100%;
+        float: left;
+        padding-top: 15px;
+    }
+    .setOfDeScrption {
+        padding: 0 15px;
+    }
+    .reivewDetails {
+        padding: 15px 0;
+    }
+    .eachReiews {
+        padding: 15px 12px;
+    }
+    .courDescriDa,
+    .topMenuSetOfCourse {
+        padding: 0 15px;
+    }
+    .dashHeaderSet h6 {
+        display: none;
+    }
+    .dashHeaderSet {
+        padding: 8px 15px;
+    }
+    .dashBoardBody {
+        padding: 40px 15px;
+    }
+    .sttSpl li {
+        width: calc(50% - 10px);
+        margin: 5px 10px 5px 0;
+    }
+    .booksSet li {
+        width: calc(33.3% - 10px);
+        margin: 10px 5px;
+    }
+    .booksSet.freeVidSet li {
+        width: calc(50% - 10px);
+        margin: 8px 5px;
+    }
+    .dsCouBtn .btnDasC {
+        float: none;
+    }
+    .dsCouBtn p {
+        float: none;
+        text-align: left;
+    }
+    .docDashD li {
+        width: calc(50% - 10px);
+    }
+    .courDescriDa {
+        top: -40px;
+    }
+    .moemail {
+        width: unset;
+        padding-bottom: 5px;
+    }
+    .freevideo {
+        width: unset;
+    }
+    .socialtop {
+        width: unset;
+    }
+    .recsocial {
+        justify-content: space-between;
+    }
+    .recsocial li {
+        width: calc(50% - 15px);
+    }
+    .coursesup li {
+        width: 100%;
+    }
+    .serupcom li {
+        width: 100%;
+    }
+    .vision {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+}
+@media screen and (max-width: 640px) and (min-width: 300px) {
+    .yusSet li {
+        width: 100%;
+        margin: 10px 0;
+    }
+    .teamprof li {
+        width: 100%;
+        margin: 10px 0;
+    }
+    .consetPage li {
+        width: calc(50% - 10px);
+        margin: 5px;
+    }
+    .leftImgSetCourse {
+        height: auto;
+    }
+    .userAccSt {
+        padding: 10px;
+    }
+    .formSetFilsss li {
+        width: 100%;
+        margin: 0;
+        padding-top: 10px;
+    }
+    .formSetFilsss li label p {
+        font-size: 12px;
+    }
+    .userProfilePic {
+        width: 120px;
+        height: 120px;
+    }
+    .userProfilePic label i {
+        width: 40px;
+        height: 40px;
+        padding: 11px 0 0 13px;
+    }
+    .formSetFilsss li label input {
+        line-height: 40px;
+    }
+    .userAccSt .btn {
+        margin-top: 25px;
+    }
+}
+@media screen and (max-width: 600px) and (min-width: 300px) {
+    .setOfSoci li {
+        width: 100%;
+        margin: 5px 0;
+    }
+    .tiSearch .dashTittle {
+        float: none;
+    }
+    .rightSearchPP {
+        float: none;
+        width: 100%;
+        max-width: 100%;
+    }
+    .dashCourse li {
+        width: 100%;
+        margin: 8px 0;
+    }
+    .CourseImgD {
+        height: 100%;
+    }
+    .dsCouBtn .btnDasC {
+        line-height: 35px;
+        padding: 0 15px;
+        float: left;
+    }
+    .dsCouBtn p {
+        line-height: 35px;
+        float: right;
+    }
+}
+@media screen and (max-width: 580px) and (min-width: 300px) {
+    .footerMenuSet a {
+        padding: 0 12px;
+    }
+    .rigthCountSet {
+        text-align: center;
+    }
+    .rigthCountSet li {
+        width: calc(50% - 13px);
+        margin: 10px 5px;
+        float: none;
+        display: inline-block;
+    }
+    .sttSpl li {
+        width: 100%;
+        margin: 5px 0;
+    }
+    .homeIconDas {
+        padding-right: 15px;
+    }
+    .rigthProSet {
+        margin-left: 15px;
+    }
+    .proFileeSetB p {
+        padding-left: 10px;
+    }
+    .proFileeSetB {
+        width: 100px;
+    }
+    .innerMyacc {
+        padding: 0 5px;
+    }
+}
+@media screen and (max-width: 520px) and (min-width: 300px) {
+    .footerMenuSet a {
+        padding: 8px;
+        width: calc(33.3% - 3px);
+    }
+    .consetPage li {
+        width: 100%;
+        margin: 5px 0;
+    }
+    .formSetcon {
+        padding: 25px 12px;
+    }
+    .proImgSet li {
+        width: 100%;
+        margin: 10px 0;
+    }
+    .rightCourseAmt .courseVidImg {
+        height: auto;
+    }
+}
+@media screen and (max-width: 480px) and (min-width: 300px) {
+    .courseLest li {
+        width: 100%;
+        margin: 10px 0;
+        height: 100%;
+        max-height: 100%;
+    }
+    .contenTFOCou P {
+        min-height: 100%;
+        max-height: 100%;
+    }
+    .setOfWhatwe li figure {
+        float: none;
+        display: block;
+    }
+    .rightDocon {
+        width: 100%;
+        display: block;
+        float: none;
+        padding: 15px 0 0 0;
+    }
+    .linkMenuRi {
+        max-height: 75vh;
+        overflow-y: auto;
+    }
+    .linkMenuRi li {
+        width: 100%;
+        display: block;
+        padding: 5px;
+    }
+    .linkMenuRi li:first-child {
+        padding-top: 15px;
+    }
+    .linkMenuRi li:last-child {
+        padding-bottom: 15px;
+    }
+    .igmSetCourse {
+        height: auto;
+    }
+    .foContactInfo a {
+        border: none;
+        display: block;
+        padding: 5px;
+    }
+    .dashBoardBody {
+        padding: 30px 15px;
+    }
+    .setOfSoci li a {
+        padding: 18px;
+    }
+    .mediaFoCount {
+        padding-top: 20px;
+    }
+    .reCallLatestNews {
+        padding-top: 30px;
+    }
+    .researchCallS {
+        margin-bottom: 30px;
+    }
+    .setOfSoci {
+        padding-top: 10px;
+    }
+    .reseCalPoints {
+        margin-top: 15px;
+    }
+    .listOfCalls li .NewCall {
+        width: 100%;
+        padding-right: 0;
+        float: none;
+    }
+    .listOfCalls li .dateTimeS {
+        width: 100%;
+        float: none;
+        text-align: left;
+        padding-top: 8px;
+    }
+    .listOfCalls li .dateTimeS br {
+        display: none;
+    }
+    .listOfCalls li .dateTimeS span {
+        display: inline-block;
+        color: #999;
+    }
+    .listOfCalls li .dateTimeS span:last-child {
+        padding-left: 5px;
+    }
+    .listOfCalls {
+        padding: 5px 15px;
+    }
+    .booksSet.freeVidSet li {
+        width: 100%;
+        margin: 5px 0;
+    }
+    .booksSet li {
+        width: calc(50% - 10px);
+        margin: 10px 5px;
+    }
+    .docDashD li {
+        width: 100%;
+        display: block;
+        margin: 5 0;
+    }
+    .courSeDesD .reSearchPage {
+        padding: 10px;
+    }
+    .fullSetDestTabD {
+        padding: 10px;
+    }
+    .lanSet li {
+        font-size: 13px;
+        padding: 0 15px;
+        line-height: 35px;
+    }
+    .langVideoSe {
+        padding-top: 10px;
+    }
+    .dashBoardBody {
+        padding: 20px 10px;
+    }
+    .courDescriDa {
+        padding: 0 10px;
+    }
+    .courDescriDa li a {
+        width: 100px;
+        padding: 15px 3px;
+    }
+    .courDescriDa {
+        top: -20px;
+    }
+    .recsocial li {
+        width: 100%;
+    }
+    .telegram {
+        width: 100%;
+        border-right: none;
+        padding-bottom: 5px;
+        border-bottom: 1px solid #333;
+    }
+    .whatsapp {
+        width: 100%;
+    }
+}
+@media screen and (max-width: 440px) and (min-width: 300px) {
+    .innerpageBanner {
+        height: 200px;
+    }
+    .loginSet {
+        box-shadow: 0 0 0 0 transparent;
+        border: 0;
+    }
+    .logFOrmSee {
+        padding: 0;
+    }
+    .dsCouBtn p {
+        float: none;
+        display: block;
+        text-align: left;
+        padding-top: 3px;
+    }
+    .dsCouBtn .btnDasC {
+        float: none;
+    }
+    .courseRebtn a,
+    .dashCourse li .courseRebtn,
+    .dashCourse li .courseTiD {
+        text-align: left;
+    }
+    .dashCourse li .courseTiD {
+        padding-top: 8px;
+    }
+    .lefttitle {
+        width: 100%;
+        padding-bottom: 5px;
+        border-right: none;
+        border-bottom: 1px solid #e2e2e2;
+    }
+    .totalseat {
+        width: 100%;
+    }
+    .upcoming h2 {
+        font-size: 25px;
+    }
+    .moemail {
+        display: none;
+    }
+}
+@media screen and (max-width: 420px) and (min-width: 300px) {
+    .footerMenuSet a {
+        padding: 10px 3px;
+    }
+    .whyBo,
+    .whyBo:last-child {
+        width: 100%;
+        margin: 10px 0 0 0;
+    }
+    .rigthCountSet li {
+        width: 100%;
+        margin: 10px 0 0 0;
+        display: block;
+    }
+}
+@media screen and (max-width: 360px) and (min-width: 300px) {
+    .isoLogo {
+        display: none;
+    }
+    .moemail {
+        display: none;
+    }
+    .socialtop {
+        display: none;
+    }
+    .freevideo {
+        width: 100%;
+        text-align: center;
+    }
+    .freevideo a {
+        display: block;
+        border-radius: 0;
+    }
+}
